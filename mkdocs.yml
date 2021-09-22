@@ -3,3 +3,4 @@ site_url: http://docs.arya-xai.ai/
 nav:
     - Home: index.md
     - About: about.md
+theme: readthedocs
