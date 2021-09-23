@@ -1,17 +1,9 @@
 # Welcome to Arya XAI
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+####Arya-XAI - Translating ‘black box DL models’ into interpretable & trustable models
+Arya-XAI enhances & explains your DL model predictions, by generating new and simple interpretable explanations in real time as required by various stakeholders. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Current approaches to explain black box DL models are heavily reliant on specific data types and network components which severely limits their applicability on diverse use-cases and novel network architectures. This poses challenges to understand or explain true-to-model functioning. Arya-Xai  decodes this ‘true-to-model’ feature weightage along with node level weightages for any neural network. 
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The framework not only improves interpretability of DL models substantially, but also offers easy to understand reasons behind the outcome
