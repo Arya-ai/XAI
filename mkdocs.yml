@@ -1,7 +1,6 @@
 site_name: Arya XAI Documentation
 
-site_url: https://sashikiranm.github.io/XAI-docs/
-
+site_url: arya-xai.readthedocs.io
 nav:
     - Home: index.md
     - How does Arya-xAI work?: algo.md
