@@ -1,8 +1,13 @@
 site_name: Arya XAI Documentation
-site_url: http://docs.arya-xai.ai/
+
+site_url: https://sashikiranm.github.io/XAI-docs/
+
 nav:
     - Home: index.md
-    - Algorithm: algo.md
-    - Example: examples.md
+    - How does Arya-xAI work?: algo.md
+    - How to Use the API?: use_the_api.md
+    - Implementing Arya-xAI Image Classification on MNIST Data: examples.md
+    - Layer Types: Layer_types.md
     - About: about.md
+
 theme: readthedocs
