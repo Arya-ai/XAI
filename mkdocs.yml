@@ -1,12 +1,11 @@
 site_name: Arya XAI Documentation
 
-site_url: arya-xai.readthedocs.io
+site_url: https://arya-xai.readthedocs.io
 nav:
     - Home: index.md
     - How does Arya-xAI work?: algo.md
     - How to Use the API?: use_the_api.md
     - Implementing Arya-xAI Image Classification on MNIST Data: examples.md
     - Layer Types: Layer_types.md
-
 
 theme: readthedocs
